@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nazanin
 
-<!--
-**nazanineqbali/nazanineqbali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about technology, programming, and computer science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning programming and improving my technical skills
+- Interested in technology, computer science and software development
+- passionate about learning, creating, and exploring new ideas
+ 
+## Skills & Technology
+
+- Python
+- Programming Fundamentals
+- Git & GitHub
+
+ ## Goals 
+
+ I'm focused on developing my skills, building meaningful projects, and growing as a technology enthusiast.
+ 
+ Thanks for visiting my profile!
